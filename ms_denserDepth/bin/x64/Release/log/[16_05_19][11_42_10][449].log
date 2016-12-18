@@ -1,0 +1,218 @@
+
+VisualSFM 3D reconstruction, begin...
+Searching images in the specified folder
+0: KakaoTalk_20160505_123828863
+image_size:	720x960
+#sift count:	4669
+
+1: KakaoTalk_20160505_123829552
+image_size:	720x960
+#sift count:	4984
+
+2: KakaoTalk_20160505_123830386
+image_size:	720x960
+#sift count:	4859
+
+3: KakaoTalk_20160505_123831033
+image_size:	720x960
+#sift count:	4891
+
+4: KakaoTalk_20160505_123831658
+image_size:	720x960
+#sift count:	5116
+
+5: KakaoTalk_20160505_123832392
+image_size:	720x960
+#sift count:	4376
+
+6: KakaoTalk_20160505_123832941
+image_size:	720x960
+#sift count:	4524
+
+7: KakaoTalk_20160505_123833694
+image_size:	720x960
+#sift count:	4215
+
+8: KakaoTalk_20160505_123834336
+image_size:	720x960
+#sift count:	3885
+
+9: KakaoTalk_20160505_123835049
+image_size:	720x960
+#sift count:	4318
+
+Loading image pixel data ...done in 0s
+Compute all missing matches
+0 pairs to compute match
+Save to C:\Users\Trijicon\Desktop\ms_denserDepth v0.1\ms_denserDepth\bin\x64\Release\result.nvm ... done
+22 pairs have two-view models
+45 pairs have fundamental matrices
+Initialize with Kak..28863 and Kak..31033
+210 3D points initialized from two images
+PBA library version = 105
+PBA: 210 3D pts, 2 cams and 420 projs...
+PBA: 0.266 -> 0.127 (1 LMs in 0.01sec)
+Focal Length : [1152.000]->[1147.664]
+Focal Length : [1152.000]->[1153.368]
+
+#############################
+#3: [Kak..29552] sees 201 (+795) 3D points
+Estimated Focal Length [1146][1.19N]
+# 131 projs (0 pts and 0 merges)
+PBA: 210 3D pts, 3 cams and 551 projs...
+PBA: 0.427 -> 0.201 (1 LMs in 0.01sec)
+
+**************************************
+#3/3:  347 projs and 108 pts added.
+PBA: 318 3D pts, 3 cams and 767 projs...
+PBA: 2.354 -> 0.224 (2 LMs in 0.02sec)
+PBA: 318 3D pts, 3 cams and 767 projs...
+PBA: 0.224 -> 0.221 (1 LMs in 0.01sec)
+Focal Length : [1146.015]->[1138.781]
+Radial Distortion : [-0.197 -> -17]
+
+#############################
+#4: [Kak..30386] sees 370 (+1129) 3D points
+Estimated Focal Length [1176][1.23N]
+# 198 projs (0 pts and 0 merges)
+PBA: 317 3D pts, 4 cams and 963 projs...
+PBA: 1.515 -> 0.303 (100 LMs in 0.89sec)
+#unstable points removed:	73
+Focal Length : [1176.027]->[1107.952]
+Radial Distortion : [-0.053 -> -5]
+
+#############################
+#5: [Kak..31658] sees 315 (+951) 3D points
+Estimated Focal Length [1112][1.16N]
+# 127 projs (0 pts and 0 merges)
+PBA: 244 3D pts, 5 cams and 831 projs...
+PBA: 0.263 -> 0.168 (1 LMs in 0.01sec)
+#points w/ large errors:	1
+
+**************************************
+#5/5:  211 projs and 31 pts added.
+PBA: 274 3D pts, 5 cams and 912 projs...
+PBA: 0.160 -> 0.143 (1 LMs in 0.01sec)
+#unstable points removed:	1
+PBA: 273 3D pts, 5 cams and 910 projs...
+PBA: 0.144 -> 0.142 (1 LMs in 0.01sec)
+#unstable points removed:	1
+Focal Length : [1111.812]->[1117.703]
+Radial Distortion : [-0.039 -> -4]
+
+#############################
+#6: [Kak..32392] sees 345 (+1124) 3D points
+Estimated Focal Length [1115][1.16N]
+# 117 projs (0 pts and 0 merges)
+PBA: 272 3D pts, 6 cams and 1024 projs...
+PBA: 0.274 -> 0.168 (1 LMs in 0.01sec)
+Focal Length : [1115.362]->[1119.396]
+Radial Distortion : [-0.040 -> -4]
+
+#############################
+#7: [Kak..32941] sees 402 (+1352) 3D points
+Estimated Focal Length [1122][1.17N]
+# 108 projs (0 pts and 0 merges)
+PBA: 272 3D pts, 7 cams and 1132 projs...
+PBA: 0.307 -> 0.194 (1 LMs in 0.01sec)
+
+**************************************
+#7/7:  642 projs and 172 pts added.
+PBA: 431 3D pts, 7 cams and 1664 projs...
+PBA: 3.260 -> 1.430 (50 LMs in 0.53sec)
+PBA: 431 3D pts, 7 cams and 1664 projs...
+PBA: 1.430 -> 1.422 (50 LMs in 0.60sec)
+Focal Length : [1121.627]->[1089.352]
+Radial Distortion : [-0.177 -> -17]
+
+#############################
+#8: [Kak..33694] sees 478 (+1176) 3D points
+Estimated Focal Length [1035][1.08N]
+# 845 projs (257 pts and 8 merges)
+PBA: 678 3D pts, 8 cams and 2505 projs...
+PBA: 6.347 -> 1.184 (100 LMs in 1.30sec)
+#points w/ large errors:	4
+Focal Length : [1035.066]->[1060.661]
+Radial Distortion : [-0.204 -> -21]
+
+#############################
+#9: [Kak..34336] sees 737 (+1431) 3D points
+Estimated Focal Length [1073][1.12N]
+# 2360 projs (523 pts and 5 merges)
+PBA: 1176 3D pts, 9 cams and 4815 projs...
+PBA: 11.598 -> 0.468 (100 LMs in 1.30sec)
+#points w/ large errors:	2
+#unstable points removed:	178
+
+**************************************
+#9/9:  2459 projs and 544 pts added.
+PBA: 1012 3D pts, 9 cams and 3798 projs...
+PBA: 1.492 -> 1.091 (50 LMs in 0.79sec)
+PBA: 1012 3D pts, 9 cams and 3798 projs...
+PBA: 1.091 -> 1.089 (50 LMs in 0.71sec)
+Focal Length : [1073.247]->[980.638]
+Radial Distortion : [-0.160 -> -19]
+
+#############################
+#10: [Kak..35049] sees 882 (+1062) 3D points
+Estimated Focal Length [997][1.04N]
+# 2062 projs (404 pts and 9 merges)
+PBA: 1400 3D pts, 10 cams and 5846 projs...
+PBA: 3.388 -> 0.932 (100 LMs in 1.30sec)
+#points w/ large errors:	7
+#unstable points removed:	71
+Focal Length : [997.484]->[965.045]
+Radial Distortion : [-0.097 -> -12]
+END: No more images to add [0 projs]
+
+#############################
+Failed to find two images for initialization
+Resuming SfM finished, 8 sec used
+
+---------------------------------------------------
+10 cams, 1408 pts (3+: 953)
+5846 projections (3+: 4593)
+---------------------------------------------------
+1 model(s) reconstructed from 10 images;
+10 modeled; 0 reused; 0 EXIF; 
+0MB(0) used to store feature location.
+---------------------------------------------------
+
+########-------timing------#########
+Structure-From-Motion finished, 8 sec used
+7.5(7.5) seconds on Bundle Adjustment (+)
+7.5(7.5) seconds on Bundle Adjustment (*)
+#############################
+Save to C:\Users\Trijicon\Desktop\ms_denserDepth v0.1\ms_denserDepth\bin\x64\Release\result.nvm ... done
+
+#############################
+Undistorting 10 images in model #0
+param_undistortion_thread_num = 0
+NOTE: using 4 threads...
+#03: Kak..31658 -> 00000004.jpg, 0.420 sec
+#00: Kak..28863 -> 00000000.jpg, 0.443 sec
+#01: Kak..31033 -> 00000001.jpg, 0.461 sec
+#02: Kak..29552 -> 00000002.jpg, 0.464 sec
+#03: Kak..32392 -> 00000005.jpg, 0.473 sec
+#00: Kak..33694 -> 00000007.jpg, 0.463 sec
+#01: Kak..35049 -> 00000009.jpg, 0.445 sec
+#02: Kak..30386 -> 00000003.jpg, 0.449 sec
+#03: Kak..32941 -> 00000006.jpg, 0.348 sec
+#00: Kak..34336 -> 00000008.jpg, 0.341 sec
+----------------------------------------------------------------
+Running Yasutaka Furukawa's CMVS tool...
+cmvs "C:\Users\Trijicon\Desktop\ms_denserDepth v0.1\ms_denserDepth\bin\x64\Release\result.nvm.cmvs\00\\" 50 4
+genOption "C:\Users\Trijicon\Desktop\ms_denserDepth v0.1\ms_denserDepth\bin\x64\Release\result.nvm.cmvs\00\\" 1 2 0.700000 7 3 4
+1 cluster is generated for pmvs reconstruction.
+pmvs2 "C:\Users\Trijicon\Desktop\ms_denserDepth v0.1\ms_denserDepth\bin\x64\Release\result.nvm.cmvs\00\\" option-0000
+This may take a little more time, waiting...
+38 seconds were used by PMVS
+Loading option-0000.ply, 11385 vertices ...
+Loading patches and estimating point sizes..
+Save to C:\Users\Trijicon\Desktop\ms_denserDepth v0.1\ms_denserDepth\bin\x64\Release\result.nvm ... done
+Save C:\Users\Trijicon\Desktop\ms_denserDepth v0.1\ms_denserDepth\bin\x64\Release\result.0.ply ...done
+----------------------------------------------------------------
+VisualSFM 3D reconstruction, finished
+Totally 48.000 seconds used
+
+__LogFile: C:\Users\Trijicon\Desktop\ms_denserDepth v0.1\ms_denserDepth\bin\x64\Release\log\[16_05_19][11_42_10][449].log

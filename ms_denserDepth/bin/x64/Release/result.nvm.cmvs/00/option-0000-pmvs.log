@@ -1,0 +1,85 @@
+
+pmvs2
+C:\Users\Trijicon\Desktop\ms_denserDepth v0.1\ms_denserDepth\bin\x64\Release\result.nvm.cmvs\00\
+option-0000--------------------------------------------------
+--- Summary of specified options ---
+# of timages: 7 (enumeration)
+# of oimages: 0 (enumeration)
+level: 1  csize: 2
+threshold: 0.7  wsize: 7
+minImageNum: 3  CPU: 4
+useVisData: 1  sequence: -1
+--------------------------------------------------
+Reading images: *******
+2 3 4 6Harris running ... Harris running ...Harris running ...Harris running ...520 harris done
+DoG running...503 harris done
+DoG running...535 harris done
+DoG running...496 harris done
+DoG running...667 dog done
+7 Harris running ...669 dog done
+8 Harris running ...672 dog done
+9 Harris running ...668 dog done
+544 harris done
+DoG running...517 harris done
+DoG running...518 harris done
+DoG running...668 dog done
+671 dog done
+668 dog done
+done
+adding seeds 
+(6,121)(4,156)(2,155)(1,134)(0,0)(3,1)(5,1)done
+---- Initial: 0 secs ----
+Total pass fail0 fail1 refinepatch: 11558 879 10412 267 1146
+Total pass fail0 fail1 refinepatch: 100 7.60512 90.0848 2.31009 9.91521
+Expanding patches...
+---- EXPANSION: 15 secs ----
+Total pass fail0 fail1 refinepatch: 21581 15008 6048 525 15533
+Total pass fail0 fail1 refinepatch: 100 69.5427 28.0247 2.4327 71.9753
+FilterOutside
+mainbody: 
+Gain (ave/var): 1.16945 0.545739
+15575 -> 15443 (99.1525%)	0 secs
+Filter Exact: *******
+15443 -> 13433 (86.9844%)	0 secs
+FilterNeighbor:	13433 -> 9017 (67.1257%)	0 secs
+FilterGroups:	20
+9017 -> 7932 (87.9672%)	0 secs
+STATUS: 97 0 16582 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 
+Expanding patches...
+---- EXPANSION: 9 secs ----
+Total pass fail0 fail1 refinepatch: 14154 5821 5090 3243 9064
+Total pass fail0 fail1 refinepatch: 100 41.1262 35.9616 22.9123 64.0384
+FilterOutside
+mainbody: 
+Gain (ave/var): 1.41171 0.616291
+13753 -> 13710 (99.6873%)	0 secs
+Filter Exact: *******
+13710 -> 12377 (90.2772%)	0 secs
+FilterNeighbor:	12377 -> 10912 (88.1635%)	0 secs
+FilterGroups:	20
+10912 -> 10262 (94.0433%)	0 secs
+STATUS: 188 0 25555 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 
+Expanding patches...
+---- EXPANSION: 6 secs ----
+Total pass fail0 fail1 refinepatch: 9889 3976 3917 1996 5972
+Total pass fail0 fail1 refinepatch: 100 40.2063 39.6097 20.184 60.3903
+FilterOutside
+mainbody: 
+Gain (ave/var): 1.63296 0.689161
+14238 -> 14202 (99.7472%)	0 secs
+Filter Exact: *******
+14202 -> 12939 (91.1069%)	0 secs
+FilterNeighbor:	12939 -> 11869 (91.7304%)	0 secs
+FilterGroups:	20
+11869 -> 11385 (95.9221%)	0 secs
+STATUS: 264 0 31450 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 0 0 
+0 0 0 0 0 
+---- Total: 0 secs ----
